@@ -1,4 +1,4 @@
-package secondAttempt;
+package fibonacciHeap;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

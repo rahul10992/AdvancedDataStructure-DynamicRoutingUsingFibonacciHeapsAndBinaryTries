@@ -1,4 +1,4 @@
-package secondAttempt;
+package fibonacciHeap;
 
 import java.util.ArrayList;
 import java.util.HashMap;
